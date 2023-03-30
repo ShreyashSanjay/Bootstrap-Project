@@ -1,2 +1,2 @@
 # Bootstrap project
-messing with bootsrap
+messing with bootstrap
