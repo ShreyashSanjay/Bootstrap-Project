@@ -1,1 +1,2 @@
-TinDog Starting Files
+Bootstrap project
+messing with bootsrap
