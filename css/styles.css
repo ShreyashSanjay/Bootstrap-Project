@@ -18,6 +18,16 @@ h1 {
     font-weight: 900;
 }
 
+h3 {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 1.5rem;  
+    font-weight: 900;
+}
+
+p {
+    color: #8f8f8f;
+}
+
 /* Nav Bar */
 
 .navbar{
@@ -54,24 +64,12 @@ h1 {
 
 /* Features */
 #features {
-    font-family: 'Montserrat', sans-serif;  
-    width: 40%;
-    margin: 100px auto 100px;
+    padding: 7% 15%;
     text-align: center;
 }
 
-.feat-h3{
-    font-size: 1.5rem;  
-    font-weight: 900;
-    
-}
-
-.feat-p {
-    color: #bfbfbf;
-}
-
 .bi {
-    font-size: 3rem; 
+    font-size: 4rem; 
     color: #ef8172;
 }
 
